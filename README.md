@@ -50,7 +50,7 @@ Desde os meus 7 anos, sou atraido por tecnologia, e essa paixão me levou a me e
 
 ---
 
-## 🌟 **Acesse Meus Links Online**
+## **Acesse Meus Links Online**
 
 Você pode explorar meu trabalho completo no meu portfólio online:  
 [**Links Sérgio Rodrigues**](https://sradvocacia.w3spaces.com/)
