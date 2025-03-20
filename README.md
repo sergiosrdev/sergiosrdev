@@ -1,41 +1,62 @@
-# 👋 Hello developer!
-This project contains a basic HTML structure to get you started. Check our [tutorials for frontend development](https://www.w3schools.com/where_to_start.asp) to learn the basics of [HTML](https://www.w3schools.com/html/default.asp) and [CSS](https://www.w3schools.com/css/default.asp). 🦄
+# Sérgio Rodrigues - Desenvolvedor Full-Stack
 
+Bem-vindo ao meu portfólio! Aqui você pode encontrar informações sobre mim, minhas habilidades e meus projetos.
 
-## 🏗 What's next?
+---
 
-Build your project however you like using HTML, CSS and JavaScript. 
+## 🌐 *Sobre Mim*
 
-Use these four files as your starting point:
+👋 Olá! Meu nome é *Sérgio dos Santos Rodrigues, tenho 42 anos e sou de **Belém, Pará*.  
+Desde os meus 7 anos, sou atraido por tecnologia, e essa paixão me levou a me especializar em *desenvolvimento Full-Stack* e *Direito Digital*. 
 
-- **README.md:** This is the file that you are reading now. You can change the text in this file to leave information to others about your website - or delete it.
-- **index.html:** This is the default page for your space, where you write HTML, the standard markup language for creating web pages.
-- **styles.css:** Use the CSS file to style your content and change the look of your space with beautiful colors, fonts and much more. 
-- **scripts.js:** Use this file to make your website dynamic and interactive with JavaScript. 
+💻 Atualmente, trabalho como freelancer e estou sempre buscando novos desafios e aprendizados.
 
-> **Note:** The **styles.css** and **scripts.js** files link into the **index.html** file so that they are all connected.
+---
 
+## 🛠 *Habilidades*
 
-## 🎨 Where to find everything
+### *Desenvolvimento Front-End*
+- HTML5 (100%)
+- CSS3 (100%)
+- JavaScript (100%)
+- React (95%)
 
-- **Fonts:** Add your favorite from **Google fonts**.  
-	[Go to tutorial about fonts](https://www.w3schools.com/w3css/w3css_fonts_google.asp)
+### *Desenvolvimento Back-End*
+- PHP (85%)
+- Node.js (90%)
+- MySQL (90%)
+- Python (95%)
+- Java (65%)
 
-- **Icons:** Add icons with **Fontawesome** and their free library.  
-	[Go to tutorial about Fontawesome](https://www.w3schools.com/icons/fontawesome5_intro.asp)
+### *Ferramentas & Frameworks*
+- Vue.js (85%)
+- Angular (90%)
+- Bootstrap (80%)
 
-- **Images:** Upload images and add their URLs to your code.  
-	[Go to article about how to upload files](https://support.w3schools.com/hc/en-gb/articles/4410414928017)
+### *Outras Competências*
+- UX/UI Design
+- Arte Digital e Design Gráfico
+- Criação de Logotipos e Banners
+- Linux
 
-> ⚡️ **Tip:** [Set up Google Analytics](https://www.w3schools.com/howto/howto_google_analytics.asp) to get valuable insights about your space and visitors. 
-	
+---
 
-### ⛑ Need support?
-[Join our Discord community](https://discord.gg/6Z7UaRbUQM) and ask questions in the **#spaces-general** channel.
+## 📬 *Contato*
 
+- *Email*: [sergio@sradv.org](mailto:sergio@sradv.org)  
+- *LinkedIn*: [Meu LinkedIn](https://www.linkedin.com/in/s%C3%A9rgio-rodrigues-6700512a9/)  
+- *GitHub*: [Meu GitHub](https://github.com/sergiosrdev)  
+- *Instagram*: [Meu Instagram](https://www.instagram.com/sergiosr.adv/)  
 
-### 🚀 Upgrade to Pro
-[Upgrade your account](https://billing.w3schools.com/products/spaces) to boost your space and take your projects to the next level; more requests, more storage and more power for up to 10 spaces.
+---
 
+## 🌟 *Acesse Meus Links Online*
+
+Você pode explorar meu trabalho completo no meu portfólio online:  
+[*Links Sérgio Rodrigues*](https://sradvocacia.w3spaces.com/)
+
+---
+
+> *"A tecnologia é a ponte que conecta sonhos à realidade."*
 
 Happy learning!
