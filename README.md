@@ -32,31 +32,9 @@ Desde os meus 7 anos, sou atraido por tecnologia, e essa paixão me levou a me e
 - Vue.js (85%)
 - Angular (90%)
 - Bootstrap (80%)
-
-### *Outras Competências*
-- UX/UI Design
-- Arte Digital e Design Gráfico
-- Criação de Logotipos e Banners
-- Linux
-
----
-
-## 📬 *Contato*
-
-- *Email*: [sergio@sradv.org](mailto:sergio@sradv.org)  
-- *LinkedIn*: [Meu LinkedIn](https://www.linkedin.com/in/s%C3%A9rgio-rodrigues-6700512a9/)  
-- *GitHub*: [Meu GitHub](https://github.com/sergiosrdev)  
-- *Instagram*: [Meu Instagram](https://www.instagram.com/sergiosr.adv/)  
-
----
-
-## 🌟 *Acesse Meus Links Online*
+## *Acesse Meus Links Online*
 
 Você pode explorar meu trabalho completo no meu portfólio online:  
 [*Links Sérgio Rodrigues*](https://sradvocacia.w3spaces.com/)
 
 ---
-
-> *"A tecnologia é a ponte que conecta sonhos à realidade."*
-
-Happy learning!
