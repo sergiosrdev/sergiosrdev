@@ -34,7 +34,7 @@ Desde os meus 7 anos, sou atraido por tecnologia, e essa paixão me levou a me e
 - Bootstrap (80%)
 ## *Acesse Meus Links Online*
 
-Você pode explorar meu trabalho completo no meu portfólio online:  
+Você pode explorar minhas mídias sociais online:  
 [*Links Sérgio Rodrigues*](https://sradvocacia.w3spaces.com/)
 
 ---
