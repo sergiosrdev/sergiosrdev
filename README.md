@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio! Aqui você pode encontrar informações sobre mim, 
 ## 🌐 *Sobre Mim*
 
 👋 Olá! Meu nome é *Sérgio dos Santos Rodrigues, tenho 42 anos e sou de **Belém, Pará*.  
-Desde os meus 7 anos, sou atraido por tecnologia, e essa paixão me levou a me especializar em *desenvolvimento Full-Stack* e *Direito Digital*. 
+Desde os meus 15 anos, sou atraido por tecnologia, e essa paixão me levou a me especializar em *desenvolvimento Full-Stack* e *Direito Digital*. 
 
 💻 Atualmente, trabalho como freelancer e estou sempre buscando novos desafios e aprendizados.
 
