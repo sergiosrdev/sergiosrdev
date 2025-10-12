@@ -69,7 +69,7 @@ Página institucional totalmente responsiva, com animações em CSS e componente
 ### 🌎 Contato
 
 📧 **Email:** [advsergiorodrigues@gmail.com](mailto:advsergiorodrigues@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/sergiorodrigues](https://linkedin.com/in/sergiorodrigues)  
+💼 **LinkedIn:** [linkedin.com/in/sergio-rodrigues-dev](https://www.linkedin.com/in/sergio-rodrigues-dev)  
 💻 **Portfólio:** [sergiorodrigues.w3spaces.com](http://sergiorodrigues.w3spaces.com)  
 📱 **WhatsApp:** [Contato Direto](https://wa.me/5591982096180)
 
