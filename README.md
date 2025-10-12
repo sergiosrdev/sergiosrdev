@@ -28,7 +28,7 @@ Sou apaixonado por tecnologia e Direito, e acredito na integração entre ambos 
 
 ---
 
-⭐️ *Buscando sempre unir Justiça e Tecnologia.*
+⭐️ *Buscando sempre unir Justiça e Tecnologia.* </br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
