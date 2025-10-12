@@ -15,7 +15,7 @@ Sou apaixonado por tecnologia e Direito, e acredito na integração entre ambos 
 ---
 
 ### 💡 Projetos em destaque
-- [SR Advocacia Portal](https://sergiorodrigues.w3spaces.com) – site institucional jurídico
+- [SR Advocacia Portal](https://drsergio.w3spaces.com) – site institucional jurídico
 - [Sistema Jurídico Automático (em desenvolvimento)]() – automação de petições e consultas
 - [Painel Administrativo Full Stack]() – dashboard moderno para gestão de clientes
 
