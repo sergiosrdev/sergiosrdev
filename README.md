@@ -3,10 +3,10 @@
 <h3 align="center">💻 Desenvolvedor Full Stack • Criador de Soluções Digitais • Apaixonado por Código Limpo</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sergiorodrigues"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sergio-rodrigues-dev"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:advsergiorodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://wa.me/5591982096180"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
-  <a href="http://sergiorodrigues.w3spaces.com"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="http://drsergio.w3spaces.com"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
