@@ -79,7 +79,7 @@ API completa com autenticação, upload de arquivos e integração com PostgreSQ
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sergiosrdev&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiosrdev&theme=tokyonight" />
+  
 </div>
 
 <div align="center">
