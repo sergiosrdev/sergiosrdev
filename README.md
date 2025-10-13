@@ -1,6 +1,6 @@
 <!-- Cabeçalho com animação -->
 <h1 align="center">👋 Olá, eu sou o Sérgio Rodrigues</h1>
-<h3 align="center">💻 Desenvolvedor Full Stack • Criador de Soluções Digitais • Apaixonado por Código Limpo</h3>
+<h3 align="center">💻 Desenvolvedor Full Stack • Criador de Soluções Digitais</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sergio-rodrigues-dev"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
