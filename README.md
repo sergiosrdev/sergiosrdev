@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/sergio-rodrigues-dev"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
   <a href="mailto:advsergiorodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://wa.me/5591982096180"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
-  <a href="http://sergiorodrigues.w3spaces.com"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="http://drsergio.w3spaces.com"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -92,12 +92,12 @@ API com autenticação, upload de arquivos e integração PostgreSQL.
 ## 📈 Estatísticas GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sergiorodrigues&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiorodrigues&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sergiosrdev&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiosrdev&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergiorodrigues&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergiosrdev&theme=tokyo-night" />
 </div>
 
 ---
