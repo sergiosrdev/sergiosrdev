@@ -1,8 +1,3 @@
-<!-- Banner principal -->
-<p align="center">
-  <img src="banner-sergio-rodrigues.png" alt="Banner Sérgio Rodrigues - Full Stack Developer" width="100%">
-</p>
-
 <!-- Título e subtítulo -->
 <h1 align="center">👋 Olá, eu sou o Sérgio Rodrigues</h1>
 <h3 align="center">💻 Desenvolvedor Full Stack • Criador de Soluções Digitais</h3>
