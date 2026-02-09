@@ -1,5 +1,5 @@
 <!-- Título e subtítulo -->
-<h1 align="center">👋 Olá, eu sou o Sérgio Rodrigues</h1>
+<h1 align="center">👋 Olá, meu nome é Sérgio Rodrigues</h1>
 <h3 align="center">💻 Desenvolvedor Full Stack • Criador de Soluções Digitais</h3>
 
 <p align="center">
