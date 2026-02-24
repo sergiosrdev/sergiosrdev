@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sergiosrdev/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
   <a href="mailto:advsergiorodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://wa.me/5591982096180"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://wa.me/5591982460001"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
   <a href="https://github.com/sergiosrdev?tab=repositories"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
 
